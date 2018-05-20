@@ -1,8 +1,8 @@
 # DragonBall-Z
 
-Eclipse Java Project
+A 2D rpg game for the DragonBall-Z cartoon series in Java & Swing.
 
-How to run? 
+## How to run? 
 
 Import Project in eclipse
 
